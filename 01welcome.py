@@ -1,0 +1,10 @@
+# my all datails
+print("name: sandip bikram kerung")
+print("position: team leader")
+print("address: panchthar")
+print("education: bachlor runing")
+print("weight: 70")
+print("height: 170cm")
+print("hobby: online gammer")
+print("family members: 5")
+print("lifestyle: very good")
