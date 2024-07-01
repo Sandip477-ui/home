@@ -1,2 +1,2 @@
 name = ['sandip','mandip','rajesh']
-print(name)
+print(name[1])
