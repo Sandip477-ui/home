@@ -1,0 +1,11 @@
+sunday = 1000
+monday = 1100
+tuesday = 1000
+wednesday = 3000
+thursday = 2000
+friday = 3000
+saturday = 4000
+total_expenses = sunday + monday + tuesday + wednesday +thursday  + friday + saturday
+avreage_expenses = total_expenses / 7
+print(f"total_expenses={total_expenses}")
+print(f"avrege_expenses={avreage_expenses}")
