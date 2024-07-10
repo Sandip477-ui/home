@@ -4,7 +4,7 @@ class Teacher:
         self.salary= salary
 
     def display(self):
-        print(f"name is :{self.name} \n salary is :{self.salary} ")
+        print(f"name is :{self.name} salary is :{self.salary} ")
             
 
 te1=Teacher(name="bikash",salary=10000)
@@ -18,3 +18,4 @@ te3.display()
 
 te4=Teacher(name="suman",salary=3500)
 te4.display()
+

@@ -9,8 +9,7 @@
 # def calculatemean(a,b):
 #     mean = (a*b)/(a+b)
 #     print(mean)
-def age_finder(this_year): 
-    this_year-2024
-    print(input(f"inter your birth year"))
-    print(f"your age is {this_year}: ")
-age_finder(this_year=2024)
+def age_finder(birth_year):
+    age=2024-birth_year
+    print(f"your age is :{age} ")
+age_finder(1998)
