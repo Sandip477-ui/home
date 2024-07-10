@@ -1,3 +1,4 @@
 import random
-name=["sandip","kerung","limbu",]
-print(input(f"enter you are name "))
+random_name=["sandip","kerung","limbu",]
+name=random.choice(random_name)
+print(f"winer is :{name} ")
